@@ -10,4 +10,5 @@ Este repositório contém uma coleção de projetos e scripts em Python que demo
 - **Projetos Extras**: Pequenos jogos, bots, ferramentas úteis e scripts diversos.
 
 LinkedIn: https://www.linkedin.com/in/pedro-soares-b4500a263/
+
 Email: phsoares@usp.br
