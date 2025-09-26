@@ -8,3 +8,6 @@ Este repositório contém uma coleção de projetos e scripts em Python que demo
 - **Análise de Dados**: Projetos usando pandas, matplotlib, seaborn e outras bibliotecas para análise e visualização de dados.
 - **Desenvolvimento Web**: Exemplos básicos de aplicações web usando frameworks como Flask ou Django.
 - **Projetos Extras**: Pequenos jogos, bots, ferramentas úteis e scripts diversos.
+
+LinkedIn: https://www.linkedin.com/in/pedro-soares-b4500a263/
+Email: phsoares@usp.br
