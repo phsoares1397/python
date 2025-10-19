@@ -62,7 +62,6 @@ Este é o front-end do portfólio de projetos em Python, desenvolvido com **Vue 
 
 ## 🔹 Exemplo de uso de endpoints
 
-### Listar deputados
 ```javascript
 fetch('https://phsoares.com/python/api-camara/deputados')
   .then(res => res.json())
